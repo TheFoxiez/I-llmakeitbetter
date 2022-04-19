@@ -1,0 +1,35 @@
+.borderline {
+	text-align: center;
+	border-top-color: #E9D5DA;
+	border-top-style: solid;
+	background-color:#E9D5DA;
+	padding-top: 50px;
+	background-size: 75% auto;
+    width: 100%;
+	length: 75%;
+	
+}
+
+
+head {
+	background-color:#E9D5DA;
+}
+
+body {
+	background-color: #EDE6DB;
+}
+.chicken-fried {
+	border-bottom-style: solid;
+	border-top-style: solid;
+	
+}
+.homefood {
+	text-align: left;
+}
+.kentucfood {
+	text-align: center;
+	padding:inherit;
+}
+.kentuc {
+	text-align: center;
+}
